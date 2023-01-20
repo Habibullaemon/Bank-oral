@@ -1,0 +1,35 @@
+.container{
+  
+
+}
+body{
+  padding: 100px;
+}
+
+.submit-area{
+ margin-top: 50px;
+ border-radius: 15px;
+ box-shadow: 5px 5px 10px grey;
+ padding: 40px;
+}
+
+#transaction-area{
+  display: none;
+}
+.status{
+  margin: 0 80px;
+  color: white;
+  padding: 30px;
+   border-radius: 15px;
+  text-align: center;
+  align-items: center;
+}
+.deposit{
+  background: slateblue;
+}
+.withdrow{
+  background: lightcoral;
+}
+.balance{
+  background: orange;
+}
